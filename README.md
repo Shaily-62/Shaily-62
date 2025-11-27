@@ -34,8 +34,9 @@
 
 ### 🔹 Achievements & Certifications  
 - ✔️ Completed **Hacktoberfest** with 6 merged PRs
-- ![WhatsApp Image 2025-11-06 at 15 06 40_e4ec18dd](https://github.com/user-attachments/assets/2bfb7b8a-4d0e-4e04-9d6c-d0e178bb81aa)
+ ![WhatsApp Image 2025-11-06 at 15 06 40_e4ec18dd](https://github.com/user-attachments/assets/2bfb7b8a-4d0e-4e04-9d6c-d0e178bb81aa)
 - 🏅 Earned GitHub & open-source contributor badges  
+[![trophy](https://github-profile-trophy.vercel.app/?username=Shaily-62)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
