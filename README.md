@@ -43,6 +43,8 @@
 <p float="left">
 <img src="https://github-readme-stats.vercel.app/api?username=Shaily-62&show_icons=true" height="150">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaily-62&layout=compact" height="150">
+ <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Shaily-62&show_icons=true&theme=tokyonight" height="150"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaily-62&layout=compact&theme=tokyonight" height="150"/> </p>
 </p>
 
 ---
