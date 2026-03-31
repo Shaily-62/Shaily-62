@@ -37,17 +37,6 @@
  ![WhatsApp Image 2025-11-06 at 15 06 40_e4ec18dd](https://github.com/user-attachments/assets/2bfb7b8a-4d0e-4e04-9d6c-d0e178bb81aa)
 - 🏅 Earned GitHub & open-source contributor badges  
 
----
-
-### 🔹 GitHub Stats
-<p float="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Shaily-62&show_icons=true" height="150">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaily-62&layout=compact" height="150">
- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Shaily-62&show_icons=true&theme=tokyonight" height="150"/>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaily-62&layout=compact&theme=tokyonight" height="150"/> </p>
-</p>
-
----
 
 ### 🔹 Connect with Me
 - 📧 Email: shailygupta0602@gmail.com
