@@ -72,7 +72,6 @@
 ### 🔹 Connect with Me
 - 📧 Email: shailygupta0602@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/shaily-gupta62/
-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shaily-62&theme=tokyonight&hide_border=true" />
 
 ---
 
